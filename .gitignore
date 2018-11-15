@@ -101,3 +101,6 @@ gradlew.bat
 /subprojects/*/build
 /subprojects/docs/src/samples/**/build
 /subprojects/internal-android-performance-testing/build-android-libs
+
+node_modules/
+package-lock.json
